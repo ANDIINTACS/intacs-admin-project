@@ -1,0 +1,51 @@
+## .NET Core
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+
+## Visual Studio files
+.vs/
+*.userprefs
+*.usertasks
+*.vscode
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+
+## SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+## Environment files
+appsettings.Development.json
+*.Development.json
+
+## Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
